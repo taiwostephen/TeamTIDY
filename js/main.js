@@ -1,0 +1,1 @@
+var a = "As at October 2017, only 40 percent of waste generated in Nigeria was collected. Team Tidy was set up with the aim of effectively collecting and managing an average of 90-95% of waste generated in Nigeria by 2020, with the active involvement of Waste generators, Waste processors, Waste Recyclers, Waste collectors, The Government and Private Bodies."
